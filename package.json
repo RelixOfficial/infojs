@@ -1,5 +1,5 @@
 {
-  "name": "infoooze",
+  "name": "infojs",
   "version": "1.0.0",
   "description": "A OSINT based famework",
   "main": "bin/info.js",

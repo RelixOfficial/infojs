@@ -1,5 +1,5 @@
 {
-  "name": "infojs",
+  "name": "infoooze",
   "version": "1.0.0",
   "description": "A OSINT based famework",
   "main": "bin/info.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "author": {
     "name": "RelixOfficial",
-    "email": "dzakyadis9@gmail.com"
+    "email": "relixofficial4@gmail.com"
   },
   "repository": {
     "type": "git",

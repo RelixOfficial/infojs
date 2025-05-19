@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 show_downloads: ['true']
-title: Infoooze
-description: Infoooze is an Information collection tool (OSINT) in NodeJs. It provides various modules that allow efficient searches.
-author: DevXprite
-email: devXprite@gmail.com
+title: InfoJs
+description: InfoJs is an Information collection tool (OSINT) in NodeJs. It provides various modules that allow efficient searches.
+author: RelixOfficial 
+email: relixofficial4@gmail.com
 google_analytics: G-V5FE6XQHBW
